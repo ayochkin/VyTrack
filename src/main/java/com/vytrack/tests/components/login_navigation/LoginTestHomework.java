@@ -11,7 +11,7 @@ import org.testng.annotations.*;
 
 import java.util.concurrent.TimeUnit;
 
-public class LoginTest {
+public class LoginTestHomework {
 
     WebDriver driver;
     String login = "//input[@id='prependedInput']";
